@@ -1,0 +1,2417 @@
+PM> C:\Users\Administrator\Desktop\FSE\DEV\FinalSBA\server\ProjectManager\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe C:\Users\Administrator\Desktop\FSE\DEV\FinalSBA\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+Executing Benchmarks in C:\Users\Administrator\Desktop\FSE\DEV\FinalSBA\server\ProjectManager\PerformanceTests\bin\Debug\PerformanceTests.dll
+------------ STARTING PerformanceTests.TaskPerfTests+PerformanceTests ---------- 
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0265132
+Elapsed Time - ms: 1,026.00 ,ms: /s 999.50 , ns / ms: 1,000,500.19
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,026,513,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8958693
+Elapsed Time - ms: 896.00 ,ms: /s 1,000.15 , ns / ms: 999,854.13
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 895,869,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9512923
+Elapsed Time - ms: 951.00 ,ms: /s 999.69 , ns / ms: 1,000,307.36
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,292,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9366650
+Elapsed Time - ms: 937.00 ,ms: /s 1,000.36 , ns / ms: 999,642.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 936,665,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0193402
+Elapsed Time - ms: 1,019.00 ,ms: /s 999.67 , ns / ms: 1,000,333.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,019,340,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9206379
+Elapsed Time - ms: 921.00 ,ms: /s 1,000.39 , ns / ms: 999,606.84
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,637,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9726637
+Elapsed Time - ms: 973.00 ,ms: /s 1,000.35 , ns / ms: 999,654.37
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 972,663,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8848571
+Elapsed Time - ms: 885.00 ,ms: /s 1,000.16 , ns / ms: 999,838.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 884,857,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9170212
+Elapsed Time - ms: 917.00 ,ms: /s 999.98 , ns / ms: 1,000,023.12
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 917,021,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8840185
+Elapsed Time - ms: 884.00 ,ms: /s 999.98 , ns / ms: 1,000,020.93
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 884,018,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0916480
+Elapsed Time - ms: 1,091.00 ,ms: /s 999.41 , ns / ms: 1,000,593.95
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,091,648,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0469731
+Elapsed Time - ms: 1,047.00 ,ms: /s 1,000.03 , ns / ms: 999,974.31
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,046,973,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9538134
+Elapsed Time - ms: 954.00 ,ms: /s 1,000.20 , ns / ms: 999,804.40
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 953,813,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9108709
+Elapsed Time - ms: 911.00 ,ms: /s 1,000.14 , ns / ms: 999,858.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,870,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9217508
+Elapsed Time - ms: 922.00 ,ms: /s 1,000.27 , ns / ms: 999,729.72
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 921,750,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9205106
+Elapsed Time - ms: 921.00 ,ms: /s 1,000.53 , ns / ms: 999,468.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,510,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9118706
+Elapsed Time - ms: 912.00 ,ms: /s 1,000.14 , ns / ms: 999,858.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 911,870,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9726350
+Elapsed Time - ms: 972.00 ,ms: /s 999.35 , ns / ms: 1,000,653.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 972,635,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9564858
+Elapsed Time - ms: 956.00 ,ms: /s 999.49 , ns / ms: 1,000,508.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 956,485,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9119029
+Elapsed Time - ms: 912.00 ,ms: /s 1,000.11 , ns / ms: 999,893.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 911,902,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9601199
+Elapsed Time - ms: 960.00 ,ms: /s 999.88 , ns / ms: 1,000,124.90
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 960,119,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8598640
+Elapsed Time - ms: 860.00 ,ms: /s 1,000.16 , ns / ms: 999,841.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 859,864,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9166269
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.41 , ns / ms: 999,593.13
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,626,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9535536
+Elapsed Time - ms: 953.00 ,ms: /s 999.42 , ns / ms: 1,000,580.90
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 953,553,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8765008
+Elapsed Time - ms: 876.00 ,ms: /s 999.43 , ns / ms: 1,000,571.69
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 876,500,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8586727
+Elapsed Time - ms: 859.00 ,ms: /s 1,000.38 , ns / ms: 999,618.98
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 858,672,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9312643
+Elapsed Time - ms: 931.00 ,ms: /s 999.72 , ns / ms: 1,000,283.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 931,264,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8931343
+Elapsed Time - ms: 893.00 ,ms: /s 999.85 , ns / ms: 1,000,150.39
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 893,134,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9131774
+Elapsed Time - ms: 913.00 ,ms: /s 999.81 , ns / ms: 1,000,194.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 913,177,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8881232
+Elapsed Time - ms: 888.00 ,ms: /s 999.86 , ns / ms: 1,000,138.74
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 888,123,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9277108
+Elapsed Time - ms: 927.00 ,ms: /s 999.23 , ns / ms: 1,000,766.77
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,710,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9567237
+Elapsed Time - ms: 957.00 ,ms: /s 1,000.29 , ns / ms: 999,711.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 956,723,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8550325
+Elapsed Time - ms: 855.00 ,ms: /s 999.96 , ns / ms: 1,000,038.01
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 855,032,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9476043
+Elapsed Time - ms: 947.00 ,ms: /s 999.36 , ns / ms: 1,000,638.12
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 947,604,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8464133
+Elapsed Time - ms: 846.00 ,ms: /s 999.51 , ns / ms: 1,000,488.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 846,413,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8719486
+Elapsed Time - ms: 872.00 ,ms: /s 1,000.06 , ns / ms: 999,941.06
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 871,948,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0204545
+Elapsed Time - ms: 1,020.00 ,ms: /s 999.55 , ns / ms: 1,000,445.59
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,020,454,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9697524
+Elapsed Time - ms: 970.00 ,ms: /s 1,000.26 , ns / ms: 999,744.74
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 969,752,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9421733
+Elapsed Time - ms: 943.00 ,ms: /s 1,000.88 , ns / ms: 999,123.33
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 942,173,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9445812
+Elapsed Time - ms: 945.00 ,ms: /s 1,000.44 , ns / ms: 999,556.83
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 944,581,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8920479
+Elapsed Time - ms: 892.00 ,ms: /s 999.95 , ns / ms: 1,000,053.70
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 892,047,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9494177
+Elapsed Time - ms: 949.00 ,ms: /s 999.56 , ns / ms: 1,000,440.15
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 949,417,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8604299
+Elapsed Time - ms: 861.00 ,ms: /s 1,000.66 , ns / ms: 999,337.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 860,429,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9647478
+Elapsed Time - ms: 965.00 ,ms: /s 1,000.26 , ns / ms: 999,738.65
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 964,747,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9209175
+Elapsed Time - ms: 921.00 ,ms: /s 1,000.09 , ns / ms: 999,910.42
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,917,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9051631
+Elapsed Time - ms: 905.00 ,ms: /s 999.82 , ns / ms: 1,000,180.22
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 905,163,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9003363
+Elapsed Time - ms: 900.00 ,ms: /s 999.63 , ns / ms: 1,000,373.67
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 900,336,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9948718
+Elapsed Time - ms: 995.00 ,ms: /s 1,000.13 , ns / ms: 999,871.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 994,871,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9374028
+Elapsed Time - ms: 937.00 ,ms: /s 999.57 , ns / ms: 1,000,429.88
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 937,402,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8644078
+Elapsed Time - ms: 864.00 ,ms: /s 999.53 , ns / ms: 1,000,471.99
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 864,407,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8845990
+Elapsed Time - ms: 885.00 ,ms: /s 1,000.45 , ns / ms: 999,546.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 884,599,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8816596
+Elapsed Time - ms: 881.00 ,ms: /s 999.25 , ns / ms: 1,000,748.69
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,659,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8811173
+Elapsed Time - ms: 882.00 ,ms: /s 1,001.00 , ns / ms: 998,999.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,117,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8989556
+Elapsed Time - ms: 899.00 ,ms: /s 1,000.05 , ns / ms: 999,950.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 898,955,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8524880
+Elapsed Time - ms: 853.00 ,ms: /s 1,000.60 , ns / ms: 999,399.77
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 852,488,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9253203
+Elapsed Time - ms: 925.00 ,ms: /s 999.65 , ns / ms: 1,000,346.27
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 925,320,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9553597
+Elapsed Time - ms: 956.00 ,ms: /s 1,000.67 , ns / ms: 999,330.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 955,359,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9678819
+Elapsed Time - ms: 968.00 ,ms: /s 1,000.12 , ns / ms: 999,878.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 967,881,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9868808
+Elapsed Time - ms: 987.00 ,ms: /s 1,000.12 , ns / ms: 999,879.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 986,880,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9285059
+Elapsed Time - ms: 929.00 ,ms: /s 1,000.53 , ns / ms: 999,468.14
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 928,505,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9781350
+Elapsed Time - ms: 978.00 ,ms: /s 999.86 , ns / ms: 1,000,138.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 978,135,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9708066
+Elapsed Time - ms: 970.00 ,ms: /s 999.17 , ns / ms: 1,000,831.55
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 970,806,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0590825
+Elapsed Time - ms: 1,059.00 ,ms: /s 999.92 , ns / ms: 1,000,077.90
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,059,082,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9769527
+Elapsed Time - ms: 977.00 ,ms: /s 1,000.05 , ns / ms: 999,951.59
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 976,952,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9604340
+Elapsed Time - ms: 961.00 ,ms: /s 1,000.59 , ns / ms: 999,411.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 960,434,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9312357
+Elapsed Time - ms: 931.00 ,ms: /s 999.75 , ns / ms: 1,000,253.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 931,235,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9063413
+Elapsed Time - ms: 906.00 ,ms: /s 999.62 , ns / ms: 1,000,376.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 906,341,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9291114
+Elapsed Time - ms: 929.00 ,ms: /s 999.88 , ns / ms: 1,000,119.91
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 929,111,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0192203
+Elapsed Time - ms: 1,019.00 ,ms: /s 999.78 , ns / ms: 1,000,216.19
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,019,220,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9525166
+Elapsed Time - ms: 953.00 ,ms: /s 1,000.51 , ns / ms: 999,492.76
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,516,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9393287
+Elapsed Time - ms: 939.00 ,ms: /s 999.65 , ns / ms: 1,000,350.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,328,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9200211
+Elapsed Time - ms: 920.00 ,ms: /s 999.98 , ns / ms: 1,000,022.93
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,021,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9189442
+Elapsed Time - ms: 919.00 ,ms: /s 1,000.06 , ns / ms: 999,939.28
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 918,944,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9442369
+Elapsed Time - ms: 944.00 ,ms: /s 999.75 , ns / ms: 1,000,250.95
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 944,236,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9045391
+Elapsed Time - ms: 904.00 ,ms: /s 999.40 , ns / ms: 1,000,596.35
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,539,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9842659
+Elapsed Time - ms: 984.00 ,ms: /s 999.73 , ns / ms: 1,000,270.22
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 984,265,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8864434
+Elapsed Time - ms: 887.00 ,ms: /s 1,000.63 , ns / ms: 999,372.49
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 886,443,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9516670
+Elapsed Time - ms: 952.00 ,ms: /s 1,000.35 , ns / ms: 999,650.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,667,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9703399
+Elapsed Time - ms: 970.00 ,ms: /s 999.65 , ns / ms: 1,000,350.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 970,339,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0323714
+Elapsed Time - ms: 1,033.00 ,ms: /s 1,000.61 , ns / ms: 999,391.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,032,371,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9468943
+Elapsed Time - ms: 947.00 ,ms: /s 1,000.11 , ns / ms: 999,888.38
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 946,894,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9397309
+Elapsed Time - ms: 940.00 ,ms: /s 1,000.29 , ns / ms: 999,713.72
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,730,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8913479
+Elapsed Time - ms: 891.00 ,ms: /s 999.61 , ns / ms: 1,000,390.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 891,347,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9983459
+Elapsed Time - ms: 998.00 ,ms: /s 999.65 , ns / ms: 1,000,346.59
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 998,345,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0462557
+Elapsed Time - ms: 1,046.00 ,ms: /s 999.76 , ns / ms: 1,000,244.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,046,255,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8986652
+Elapsed Time - ms: 899.00 ,ms: /s 1,000.37 , ns / ms: 999,627.59
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 898,665,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9272398
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.82 , ns / ms: 999,180.82
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,239,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0115223
+Elapsed Time - ms: 1,011.00 ,ms: /s 999.48 , ns / ms: 1,000,516.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,011,522,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9799973
+Elapsed Time - ms: 980.00 ,ms: /s 1,000.00 , ns / ms: 999,997.24
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 979,997,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9442188
+Elapsed Time - ms: 944.00 ,ms: /s 999.77 , ns / ms: 1,000,231.78
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 944,218,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9196571
+Elapsed Time - ms: 919.00 ,ms: /s 999.29 , ns / ms: 1,000,715.02
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 919,657,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9521413
+Elapsed Time - ms: 952.00 ,ms: /s 999.85 , ns / ms: 1,000,148.42
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,141,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9523157
+Elapsed Time - ms: 952.00 ,ms: /s 999.67 , ns / ms: 1,000,331.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,315,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9564480
+Elapsed Time - ms: 956.00 ,ms: /s 999.53 , ns / ms: 1,000,468.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 956,448,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9327939
+Elapsed Time - ms: 933.00 ,ms: /s 1,000.22 , ns / ms: 999,779.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 932,793,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9476156
+Elapsed Time - ms: 948.00 ,ms: /s 1,000.41 , ns / ms: 999,594.51
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 947,615,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9559884
+Elapsed Time - ms: 956.00 ,ms: /s 1,000.01 , ns / ms: 999,987.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 955,988,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9720689
+Elapsed Time - ms: 972.00 ,ms: /s 999.93 , ns / ms: 1,000,070.88
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 972,068,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9653909
+Elapsed Time - ms: 965.00 ,ms: /s 999.60 , ns / ms: 1,000,405.08
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 965,390,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9647608
+Elapsed Time - ms: 965.00 ,ms: /s 1,000.25 , ns / ms: 999,752.12
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 964,760,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0522868
+Elapsed Time - ms: 1,052.00 ,ms: /s 999.73 , ns / ms: 1,000,272.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,052,286,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0031898
+Elapsed Time - ms: 1,003.00 ,ms: /s 999.81 , ns / ms: 1,000,189.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,003,189,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9311857
+Elapsed Time - ms: 931.00 ,ms: /s 999.80 , ns / ms: 1,000,199.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 931,185,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9260864
+Elapsed Time - ms: 926.00 ,ms: /s 999.91 , ns / ms: 1,000,093.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 926,086,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9488340
+Elapsed Time - ms: 949.00 ,ms: /s 1,000.17 , ns / ms: 999,825.08
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 948,834,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9217858
+Elapsed Time - ms: 921.00 ,ms: /s 999.15 , ns / ms: 1,000,853.20
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 921,785,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9412852
+Elapsed Time - ms: 942.00 ,ms: /s 1,000.76 , ns / ms: 999,241.19
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 941,285,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9438924
+Elapsed Time - ms: 944.00 ,ms: /s 1,000.11 , ns / ms: 999,886.02
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,892,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8815867
+Elapsed Time - ms: 882.00 ,ms: /s 1,000.47 , ns / ms: 999,531.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,586,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8665132
+Elapsed Time - ms: 867.00 ,ms: /s 1,000.56 , ns / ms: 999,438.52
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 866,513,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9144900
+Elapsed Time - ms: 914.00 ,ms: /s 999.46 , ns / ms: 1,000,536.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 914,490,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8484569
+Elapsed Time - ms: 849.00 ,ms: /s 1,000.64 , ns / ms: 999,360.31
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 848,456,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8653530
+Elapsed Time - ms: 866.00 ,ms: /s 1,000.75 , ns / ms: 999,252.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 865,353,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8552812
+Elapsed Time - ms: 855.00 ,ms: /s 999.67 , ns / ms: 1,000,328.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 855,281,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9325719
+Elapsed Time - ms: 933.00 ,ms: /s 1,000.46 , ns / ms: 999,541.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 932,571,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9042895
+Elapsed Time - ms: 904.00 ,ms: /s 999.68 , ns / ms: 1,000,320.24
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,289,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8700215
+Elapsed Time - ms: 870.00 ,ms: /s 999.98 , ns / ms: 1,000,024.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 870,021,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9098675
+Elapsed Time - ms: 910.00 ,ms: /s 1,000.15 , ns / ms: 999,854.40
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 909,867,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9024774
+Elapsed Time - ms: 902.00 ,ms: /s 999.47 , ns / ms: 1,000,529.27
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 902,477,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9497782
+Elapsed Time - ms: 950.00 ,ms: /s 1,000.23 , ns / ms: 999,766.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 949,778,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9917433
+Elapsed Time - ms: 991.00 ,ms: /s 999.25 , ns / ms: 1,000,750.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 991,743,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8995662
+Elapsed Time - ms: 900.00 ,ms: /s 1,000.48 , ns / ms: 999,518.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 899,566,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8833035
+Elapsed Time - ms: 884.00 ,ms: /s 1,000.79 , ns / ms: 999,212.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 883,303,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9436241
+Elapsed Time - ms: 944.00 ,ms: /s 1,000.40 , ns / ms: 999,601.80
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,624,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9100016
+Elapsed Time - ms: 910.00 ,ms: /s 1,000.00 , ns / ms: 1,000,001.76
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,001,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0097612
+Elapsed Time - ms: 1,010.00 ,ms: /s 1,000.24 , ns / ms: 999,763.56
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,009,761,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9660312
+Elapsed Time - ms: 966.00 ,ms: /s 999.97 , ns / ms: 1,000,032.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 966,031,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9479594
+Elapsed Time - ms: 948.00 ,ms: /s 1,000.04 , ns / ms: 999,957.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 947,959,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9116776
+Elapsed Time - ms: 912.00 ,ms: /s 1,000.35 , ns / ms: 999,646.49
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 911,677,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8789481
+Elapsed Time - ms: 879.00 ,ms: /s 1,000.06 , ns / ms: 999,940.96
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 878,948,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8752468
+Elapsed Time - ms: 876.00 ,ms: /s 1,000.86 , ns / ms: 999,140.18
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,246,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8910568
+Elapsed Time - ms: 891.00 ,ms: /s 999.94 , ns / ms: 1,000,063.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 891,056,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8656507
+Elapsed Time - ms: 865.00 ,ms: /s 999.25 , ns / ms: 1,000,752.25
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 865,650,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9185168
+Elapsed Time - ms: 919.00 ,ms: /s 1,000.53 , ns / ms: 999,474.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 918,516,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9470377
+Elapsed Time - ms: 947.00 ,ms: /s 999.96 , ns / ms: 1,000,039.81
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 947,037,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9123769
+Elapsed Time - ms: 912.00 ,ms: /s 999.59 , ns / ms: 1,000,413.27
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 912,376,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9162591
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.81 , ns / ms: 999,192.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,259,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9170781
+Elapsed Time - ms: 917.00 ,ms: /s 999.91 , ns / ms: 1,000,085.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 917,078,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8877321
+Elapsed Time - ms: 888.00 ,ms: /s 1,000.30 , ns / ms: 999,698.31
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 887,732,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8854166
+Elapsed Time - ms: 885.00 ,ms: /s 999.53 , ns / ms: 1,000,470.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 885,416,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8545190
+Elapsed Time - ms: 854.00 ,ms: /s 999.39 , ns / ms: 1,000,607.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 854,519,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0060228
+Elapsed Time - ms: 1,006.00 ,ms: /s 999.98 , ns / ms: 1,000,022.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,006,022,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9824742
+Elapsed Time - ms: 982.00 ,ms: /s 999.52 , ns / ms: 1,000,482.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 982,474,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9121041
+Elapsed Time - ms: 913.00 ,ms: /s 1,000.98 , ns / ms: 999,018.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 912,104,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8431834
+Elapsed Time - ms: 843.00 ,ms: /s 999.78 , ns / ms: 1,000,217.56
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 843,183,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8539095
+Elapsed Time - ms: 854.00 ,ms: /s 1,000.11 , ns / ms: 999,894.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 853,909,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8698431
+Elapsed Time - ms: 870.00 ,ms: /s 1,000.18 , ns / ms: 999,819.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 869,843,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9576555
+Elapsed Time - ms: 958.00 ,ms: /s 1,000.36 , ns / ms: 999,640.40
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 957,655,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9487372
+Elapsed Time - ms: 949.00 ,ms: /s 1,000.28 , ns / ms: 999,723.08
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 948,737,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8413186
+Elapsed Time - ms: 841.00 ,ms: /s 999.62 , ns / ms: 1,000,378.83
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 841,318,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8805760
+Elapsed Time - ms: 881.00 ,ms: /s 1,000.48 , ns / ms: 999,518.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 880,576,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9279947
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.01 , ns / ms: 999,994.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,994,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8814758
+Elapsed Time - ms: 882.00 ,ms: /s 1,000.59 , ns / ms: 999,405.67
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,475,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9625007
+Elapsed Time - ms: 962.00 ,ms: /s 999.48 , ns / ms: 1,000,520.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 962,500,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8862741
+Elapsed Time - ms: 886.00 ,ms: /s 999.69 , ns / ms: 1,000,309.37
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 886,274,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9654116
+Elapsed Time - ms: 965.00 ,ms: /s 999.57 , ns / ms: 1,000,426.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 965,411,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9236861
+Elapsed Time - ms: 923.00 ,ms: /s 999.26 , ns / ms: 1,000,743.34
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 923,686,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8934053
+Elapsed Time - ms: 893.00 ,ms: /s 999.55 , ns / ms: 1,000,453.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 893,405,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9613077
+Elapsed Time - ms: 962.00 ,ms: /s 1,000.72 , ns / ms: 999,280.35
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 961,307,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9303981
+Elapsed Time - ms: 931.00 ,ms: /s 1,000.65 , ns / ms: 999,353.49
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 930,398,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9560377
+Elapsed Time - ms: 956.00 ,ms: /s 999.96 , ns / ms: 1,000,039.44
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 956,037,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9052064
+Elapsed Time - ms: 905.00 ,ms: /s 999.77 , ns / ms: 1,000,228.07
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 905,206,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9670911
+Elapsed Time - ms: 967.00 ,ms: /s 999.91 , ns / ms: 1,000,094.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 967,091,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0139958
+Elapsed Time - ms: 1,014.00 ,ms: /s 1,000.00 , ns / ms: 999,995.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,013,995,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8901422
+Elapsed Time - ms: 890.00 ,ms: /s 999.84 , ns / ms: 1,000,159.78
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 890,142,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9226846
+Elapsed Time - ms: 923.00 ,ms: /s 1,000.34 , ns / ms: 999,658.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 922,684,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0285275
+Elapsed Time - ms: 1,028.00 ,ms: /s 999.49 , ns / ms: 1,000,513.13
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,028,527,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0768654
+Elapsed Time - ms: 1,076.00 ,ms: /s 999.20 , ns / ms: 1,000,804.28
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,076,865,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0257463
+Elapsed Time - ms: 1,026.00 ,ms: /s 1,000.25 , ns / ms: 999,752.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,025,746,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9169325
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.07 , ns / ms: 999,926.39
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,932,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9481726
+Elapsed Time - ms: 948.00 ,ms: /s 999.82 , ns / ms: 1,000,182.07
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 948,172,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9546399
+Elapsed Time - ms: 955.00 ,ms: /s 1,000.38 , ns / ms: 999,622.93
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 954,639,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9856630
+Elapsed Time - ms: 985.00 ,ms: /s 999.33 , ns / ms: 1,000,673.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 985,663,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9577718
+Elapsed Time - ms: 958.00 ,ms: /s 1,000.24 , ns / ms: 999,761.80
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 957,771,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9520768
+Elapsed Time - ms: 952.00 ,ms: /s 999.92 , ns / ms: 1,000,080.67
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,076,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8819614
+Elapsed Time - ms: 882.00 ,ms: /s 1,000.04 , ns / ms: 999,956.24
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,961,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8705563
+Elapsed Time - ms: 871.00 ,ms: /s 1,000.51 , ns / ms: 999,490.59
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 870,556,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9092035
+Elapsed Time - ms: 909.00 ,ms: /s 999.78 , ns / ms: 1,000,223.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 909,203,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9055814
+Elapsed Time - ms: 906.00 ,ms: /s 1,000.46 , ns / ms: 999,537.97
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 905,581,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8783621
+Elapsed Time - ms: 878.00 ,ms: /s 999.59 , ns / ms: 1,000,412.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 878,362,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9022244
+Elapsed Time - ms: 902.00 ,ms: /s 999.75 , ns / ms: 1,000,248.78
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 902,224,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9277937
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.22 , ns / ms: 999,777.69
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,793,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9522932
+Elapsed Time - ms: 953.00 ,ms: /s 1,000.74 , ns / ms: 999,258.34
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,293,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0270919
+Elapsed Time - ms: 1,027.00 ,ms: /s 999.91 , ns / ms: 1,000,089.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,027,091,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9500661
+Elapsed Time - ms: 950.00 ,ms: /s 999.93 , ns / ms: 1,000,069.58
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 950,066,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9406285
+Elapsed Time - ms: 941.00 ,ms: /s 1,000.39 , ns / ms: 999,605.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 940,628,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9373540
+Elapsed Time - ms: 938.00 ,ms: /s 1,000.69 , ns / ms: 999,311.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 937,354,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9251350
+Elapsed Time - ms: 925.00 ,ms: /s 999.85 , ns / ms: 1,000,145.95
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 925,135,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9410048
+Elapsed Time - ms: 941.00 ,ms: /s 999.99 , ns / ms: 1,000,005.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 941,004,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0020888
+Elapsed Time - ms: 1,002.00 ,ms: /s 999.91 , ns / ms: 1,000,088.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,002,088,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0509375
+Elapsed Time - ms: 1,051.00 ,ms: /s 1,000.06 , ns / ms: 999,940.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,050,937,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9278261
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.19 , ns / ms: 999,812.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,826,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0311420
+Elapsed Time - ms: 1,031.00 ,ms: /s 999.86 , ns / ms: 1,000,137.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,031,142,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9630968
+Elapsed Time - ms: 964.00 ,ms: /s 1,000.94 , ns / ms: 999,063.07
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 963,096,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9021042
+Elapsed Time - ms: 902.00 ,ms: /s 999.88 , ns / ms: 1,000,115.52
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 902,104,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9948031
+Elapsed Time - ms: 995.00 ,ms: /s 1,000.20 , ns / ms: 999,802.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 994,803,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9048778
+Elapsed Time - ms: 905.00 ,ms: /s 1,000.14 , ns / ms: 999,864.97
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,877,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9019932
+Elapsed Time - ms: 902.00 ,ms: /s 1,000.01 , ns / ms: 999,992.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 901,993,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8974510
+Elapsed Time - ms: 898.00 ,ms: /s 1,000.61 , ns / ms: 999,388.64
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 897,451,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8882457
+Elapsed Time - ms: 888.00 ,ms: /s 999.72 , ns / ms: 1,000,276.69
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 888,245,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8565578
+Elapsed Time - ms: 856.00 ,ms: /s 999.35 , ns / ms: 1,000,651.64
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 856,557,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8906445
+Elapsed Time - ms: 890.00 ,ms: /s 999.28 , ns / ms: 1,000,724.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 890,644,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8733040
+Elapsed Time - ms: 874.00 ,ms: /s 1,000.80 , ns / ms: 999,203.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 873,304,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8870086
+Elapsed Time - ms: 887.00 ,ms: /s 999.99 , ns / ms: 1,000,009.70
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 887,008,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9353511
+Elapsed Time - ms: 935.00 ,ms: /s 999.62 , ns / ms: 1,000,375.51
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 935,351,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9879844
+Elapsed Time - ms: 988.00 ,ms: /s 1,000.02 , ns / ms: 999,984.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 987,984,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9550419
+Elapsed Time - ms: 955.00 ,ms: /s 999.96 , ns / ms: 1,000,043.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 955,041,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9985362
+Elapsed Time - ms: 999.00 ,ms: /s 1,000.46 , ns / ms: 999,535.74
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 998,536,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9532657
+Elapsed Time - ms: 953.00 ,ms: /s 999.72 , ns / ms: 1,000,278.80
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 953,265,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9511522
+Elapsed Time - ms: 952.00 ,ms: /s 1,000.89 , ns / ms: 999,109.45
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,152,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9036690
+Elapsed Time - ms: 904.00 ,ms: /s 1,000.37 , ns / ms: 999,633.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 903,669,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9184726
+Elapsed Time - ms: 918.00 ,ms: /s 999.49 , ns / ms: 1,000,514.81
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 918,472,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9619083
+Elapsed Time - ms: 962.00 ,ms: /s 1,000.10 , ns / ms: 999,904.68
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 961,908,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8751524
+Elapsed Time - ms: 875.00 ,ms: /s 999.83 , ns / ms: 1,000,174.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,152,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9062998
+Elapsed Time - ms: 906.00 ,ms: /s 999.67 , ns / ms: 1,000,330.91
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 906,299,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8806014
+Elapsed Time - ms: 881.00 ,ms: /s 1,000.45 , ns / ms: 999,547.56
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 880,601,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8871320
+Elapsed Time - ms: 888.00 ,ms: /s 1,000.98 , ns / ms: 999,022.52
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 887,132,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8770577
+Elapsed Time - ms: 877.00 ,ms: /s 999.93 , ns / ms: 1,000,065.79
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 877,057,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8430703
+Elapsed Time - ms: 843.00 ,ms: /s 999.92 , ns / ms: 1,000,083.39
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 843,070,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8781904
+Elapsed Time - ms: 878.00 ,ms: /s 999.78 , ns / ms: 1,000,216.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 878,190,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8523657
+Elapsed Time - ms: 852.00 ,ms: /s 999.57 , ns / ms: 1,000,429.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 852,365,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9595217
+Elapsed Time - ms: 960.00 ,ms: /s 1,000.50 , ns / ms: 999,501.77
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 959,521,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8745814
+Elapsed Time - ms: 875.00 ,ms: /s 1,000.48 , ns / ms: 999,521.60
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 874,581,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8697538
+Elapsed Time - ms: 870.00 ,ms: /s 1,000.28 , ns / ms: 999,717.01
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 869,753,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8524798
+Elapsed Time - ms: 852.00 ,ms: /s 999.44 , ns / ms: 1,000,563.15
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 852,479,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8754470
+Elapsed Time - ms: 876.00 ,ms: /s 1,000.63 , ns / ms: 999,368.72
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,447,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9205278
+Elapsed Time - ms: 921.00 ,ms: /s 1,000.51 , ns / ms: 999,487.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,527,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8944999
+Elapsed Time - ms: 894.00 ,ms: /s 999.44 , ns / ms: 1,000,559.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 894,499,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9162502
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.82 , ns / ms: 999,182.33
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,250,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9085808
+Elapsed Time - ms: 908.00 ,ms: /s 999.36 , ns / ms: 1,000,639.65
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 908,580,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9155788
+Elapsed Time - ms: 915.00 ,ms: /s 999.37 , ns / ms: 1,000,632.57
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 915,578,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9587841
+Elapsed Time - ms: 958.00 ,ms: /s 999.18 , ns / ms: 1,000,818.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 958,784,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0880277
+Elapsed Time - ms: 1,088.00 ,ms: /s 999.97 , ns / ms: 1,000,025.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,088,027,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0599831
+Elapsed Time - ms: 1,060.00 ,ms: /s 1,000.02 , ns / ms: 999,984.06
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,059,983,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9621936
+Elapsed Time - ms: 963.00 ,ms: /s 1,000.84 , ns / ms: 999,162.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 962,193,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9272414
+Elapsed Time - ms: 927.00 ,ms: /s 999.74 , ns / ms: 1,000,260.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,241,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9088247
+Elapsed Time - ms: 908.00 ,ms: /s 999.09 , ns / ms: 1,000,908.26
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 908,824,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9390903
+Elapsed Time - ms: 939.00 ,ms: /s 999.90 , ns / ms: 1,000,096.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,090,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9510763
+Elapsed Time - ms: 951.00 ,ms: /s 999.92 , ns / ms: 1,000,080.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,076,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9260354
+Elapsed Time - ms: 926.00 ,ms: /s 999.96 , ns / ms: 1,000,038.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 926,035,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9313179
+Elapsed Time - ms: 931.00 ,ms: /s 999.66 , ns / ms: 1,000,341.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 931,317,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9175484
+Elapsed Time - ms: 918.00 ,ms: /s 1,000.49 , ns / ms: 999,508.06
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 917,548,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9042535
+Elapsed Time - ms: 904.00 ,ms: /s 999.72 , ns / ms: 1,000,280.42
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,253,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9015967
+Elapsed Time - ms: 902.00 ,ms: /s 1,000.45 , ns / ms: 999,552.88
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 901,596,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9107129
+Elapsed Time - ms: 911.00 ,ms: /s 1,000.32 , ns / ms: 999,684.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,712,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9157490
+Elapsed Time - ms: 916.00 ,ms: /s 1,000.27 , ns / ms: 999,725.98
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 915,749,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9278231
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.19 , ns / ms: 999,809.38
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,823,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0956622
+Elapsed Time - ms: 1,096.00 ,ms: /s 1,000.31 , ns / ms: 999,691.79
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,095,662,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9548164
+Elapsed Time - ms: 954.00 ,ms: /s 999.14 , ns / ms: 1,000,855.77
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 954,816,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8520746
+Elapsed Time - ms: 852.00 ,ms: /s 999.91 , ns / ms: 1,000,087.56
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 852,074,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9362755
+Elapsed Time - ms: 936.00 ,ms: /s 999.71 , ns / ms: 1,000,294.34
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 936,275,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9086520
+Elapsed Time - ms: 909.00 ,ms: /s 1,000.38 , ns / ms: 999,617.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 908,652,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9468408
+Elapsed Time - ms: 947.00 ,ms: /s 1,000.17 , ns / ms: 999,831.89
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 946,840,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9732113
+Elapsed Time - ms: 973.00 ,ms: /s 999.78 , ns / ms: 1,000,217.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 973,211,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9740969
+Elapsed Time - ms: 974.00 ,ms: /s 999.90 , ns / ms: 1,000,099.49
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 974,096,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9430948
+Elapsed Time - ms: 943.00 ,ms: /s 999.90 , ns / ms: 1,000,100.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,094,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9247932
+Elapsed Time - ms: 925.00 ,ms: /s 1,000.22 , ns / ms: 999,776.43
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 924,793,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9291348
+Elapsed Time - ms: 929.00 ,ms: /s 999.85 , ns / ms: 1,000,145.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 929,134,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8806499
+Elapsed Time - ms: 880.00 ,ms: /s 999.26 , ns / ms: 1,000,738.52
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 880,649,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8816054
+Elapsed Time - ms: 882.00 ,ms: /s 1,000.45 , ns / ms: 999,552.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,605,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9099115
+Elapsed Time - ms: 910.00 ,ms: /s 1,000.10 , ns / ms: 999,902.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 909,911,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9213749
+Elapsed Time - ms: 922.00 ,ms: /s 1,000.68 , ns / ms: 999,322.02
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 921,374,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9167584
+Elapsed Time - ms: 917.00 ,ms: /s 1,000.26 , ns / ms: 999,736.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,758,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9263386
+Elapsed Time - ms: 926.00 ,ms: /s 999.63 , ns / ms: 1,000,365.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 926,338,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9632369
+Elapsed Time - ms: 963.00 ,ms: /s 999.75 , ns / ms: 1,000,246.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 963,236,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9715127
+Elapsed Time - ms: 972.00 ,ms: /s 1,000.50 , ns / ms: 999,498.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 971,512,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8923277
+Elapsed Time - ms: 892.00 ,ms: /s 999.63 , ns / ms: 1,000,367.38
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 892,327,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9043618
+Elapsed Time - ms: 904.00 ,ms: /s 999.60 , ns / ms: 1,000,400.22
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,361,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8827659
+Elapsed Time - ms: 883.00 ,ms: /s 1,000.27 , ns / ms: 999,734.88
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 882,765,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9991785
+Elapsed Time - ms: 999.00 ,ms: /s 999.82 , ns / ms: 1,000,178.68
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 999,178,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9041979
+Elapsed Time - ms: 904.00 ,ms: /s 999.78 , ns / ms: 1,000,218.92
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,197,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8369187
+Elapsed Time - ms: 837.00 ,ms: /s 1,000.10 , ns / ms: 999,902.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 836,918,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9114749
+Elapsed Time - ms: 911.00 ,ms: /s 999.48 , ns / ms: 1,000,521.30
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 911,474,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9051403
+Elapsed Time - ms: 905.00 ,ms: /s 999.84 , ns / ms: 1,000,155.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 905,140,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9519512
+Elapsed Time - ms: 952.00 ,ms: /s 1,000.05 , ns / ms: 999,948.74
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,951,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9271060
+Elapsed Time - ms: 927.00 ,ms: /s 999.89 , ns / ms: 1,000,114.35
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,106,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9041020
+Elapsed Time - ms: 904.00 ,ms: /s 999.89 , ns / ms: 1,000,112.83
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 904,102,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9668434
+Elapsed Time - ms: 967.00 ,ms: /s 1,000.16 , ns / ms: 999,838.06
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 966,843,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9211043
+Elapsed Time - ms: 921.00 ,ms: /s 999.89 , ns / ms: 1,000,113.25
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 921,104,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9560002
+Elapsed Time - ms: 956.00 ,ms: /s 1,000.00 , ns / ms: 1,000,000.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 956,000,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8841328
+Elapsed Time - ms: 884.00 ,ms: /s 999.85 , ns / ms: 1,000,150.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 884,132,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8598845
+Elapsed Time - ms: 860.00 ,ms: /s 1,000.13 , ns / ms: 999,865.70
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 859,884,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8756800
+Elapsed Time - ms: 876.00 ,ms: /s 1,000.37 , ns / ms: 999,634.70
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,680,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8753549
+Elapsed Time - ms: 876.00 ,ms: /s 1,000.74 , ns / ms: 999,263.58
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,354,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8686315
+Elapsed Time - ms: 869.00 ,ms: /s 1,000.42 , ns / ms: 999,575.95
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 868,631,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9536827
+Elapsed Time - ms: 954.00 ,ms: /s 1,000.33 , ns / ms: 999,667.40
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 953,682,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9383321
+Elapsed Time - ms: 938.00 ,ms: /s 999.65 , ns / ms: 1,000,354.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 938,332,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8813427
+Elapsed Time - ms: 881.00 ,ms: /s 999.61 , ns / ms: 1,000,388.99
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,342,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8751276
+Elapsed Time - ms: 875.00 ,ms: /s 999.85 , ns / ms: 1,000,145.83
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,127,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8550019
+Elapsed Time - ms: 855.00 ,ms: /s 1,000.00 , ns / ms: 1,000,002.22
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 855,001,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9059080
+Elapsed Time - ms: 905.00 ,ms: /s 999.00 , ns / ms: 1,001,003.31
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 905,908,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8911216
+Elapsed Time - ms: 891.00 ,ms: /s 999.86 , ns / ms: 1,000,136.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 891,121,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8974370
+Elapsed Time - ms: 898.00 ,ms: /s 1,000.63 , ns / ms: 999,373.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 897,437,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9128412
+Elapsed Time - ms: 912.00 ,ms: /s 999.08 , ns / ms: 1,000,922.37
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 912,841,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8985294
+Elapsed Time - ms: 898.00 ,ms: /s 999.41 , ns / ms: 1,000,589.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 898,529,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9435595
+Elapsed Time - ms: 944.00 ,ms: /s 1,000.47 , ns / ms: 999,533.37
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,559,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8855628
+Elapsed Time - ms: 886.00 ,ms: /s 1,000.49 , ns / ms: 999,506.55
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 885,562,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0144915
+Elapsed Time - ms: 1,014.00 ,ms: /s 999.52 , ns / ms: 1,000,484.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,014,491,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9109040
+Elapsed Time - ms: 911.00 ,ms: /s 1,000.11 , ns / ms: 999,894.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,904,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9343261
+Elapsed Time - ms: 934.00 ,ms: /s 999.65 , ns / ms: 1,000,349.14
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 934,326,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8977852
+Elapsed Time - ms: 898.00 ,ms: /s 1,000.24 , ns / ms: 999,760.80
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 897,785,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9189351
+Elapsed Time - ms: 919.00 ,ms: /s 1,000.07 , ns / ms: 999,929.38
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 918,935,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9326360
+Elapsed Time - ms: 933.00 ,ms: /s 1,000.39 , ns / ms: 999,609.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 932,636,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8653645
+Elapsed Time - ms: 866.00 ,ms: /s 1,000.73 , ns / ms: 999,266.17
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 865,364,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8884803
+Elapsed Time - ms: 889.00 ,ms: /s 1,000.58 , ns / ms: 999,415.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 888,480,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9122143
+Elapsed Time - ms: 912.00 ,ms: /s 999.77 , ns / ms: 1,000,234.98
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 912,214,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8757645
+Elapsed Time - ms: 876.00 ,ms: /s 1,000.27 , ns / ms: 999,731.16
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 875,764,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8738365
+Elapsed Time - ms: 874.00 ,ms: /s 1,000.19 , ns / ms: 999,812.93
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 873,836,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9101114
+Elapsed Time - ms: 910.00 ,ms: /s 999.88 , ns / ms: 1,000,122.42
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,111,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9401460
+Elapsed Time - ms: 940.00 ,ms: /s 999.84 , ns / ms: 1,000,155.32
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 940,146,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9259488
+Elapsed Time - ms: 926.00 ,ms: /s 1,000.06 , ns / ms: 999,944.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 925,948,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9376840
+Elapsed Time - ms: 938.00 ,ms: /s 1,000.34 , ns / ms: 999,663.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 937,684,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8871337
+Elapsed Time - ms: 887.00 ,ms: /s 999.85 , ns / ms: 1,000,150.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 887,133,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9278016
+Elapsed Time - ms: 928.00 ,ms: /s 1,000.21 , ns / ms: 999,786.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 927,801,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9527073
+Elapsed Time - ms: 953.00 ,ms: /s 1,000.31 , ns / ms: 999,692.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,707,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9490024
+Elapsed Time - ms: 949.00 ,ms: /s 1,000.00 , ns / ms: 1,000,002.53
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 949,002,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9961733
+Elapsed Time - ms: 996.00 ,ms: /s 999.83 , ns / ms: 1,000,174.00
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 996,173,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0001092
+Elapsed Time - ms: 1,000.00 ,ms: /s 999.89 , ns / ms: 1,000,109.20
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,000,109,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9617166
+Elapsed Time - ms: 962.00 ,ms: /s 1,000.29 , ns / ms: 999,705.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 961,716,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0129642
+Elapsed Time - ms: 1,013.00 ,ms: /s 1,000.04 , ns / ms: 999,964.66
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,012,964,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9672487
+Elapsed Time - ms: 967.00 ,ms: /s 999.74 , ns / ms: 1,000,257.19
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 967,248,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9237441
+Elapsed Time - ms: 924.00 ,ms: /s 1,000.28 , ns / ms: 999,723.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 923,744,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9408363
+Elapsed Time - ms: 941.00 ,ms: /s 1,000.17 , ns / ms: 999,826.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 940,836,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9396141
+Elapsed Time - ms: 939.00 ,ms: /s 999.35 , ns / ms: 1,000,653.99
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,614,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9469065
+Elapsed Time - ms: 947.00 ,ms: /s 1,000.10 , ns / ms: 999,901.27
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 946,906,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9856992
+Elapsed Time - ms: 986.00 ,ms: /s 1,000.31 , ns / ms: 999,694.93
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 985,699,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9511537
+Elapsed Time - ms: 951.00 ,ms: /s 999.84 , ns / ms: 1,000,161.62
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,153,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9402012
+Elapsed Time - ms: 940.00 ,ms: /s 999.79 , ns / ms: 1,000,214.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 940,201,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9390932
+Elapsed Time - ms: 939.00 ,ms: /s 999.90 , ns / ms: 1,000,099.25
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,093,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9100670
+Elapsed Time - ms: 911.00 ,ms: /s 1,001.03 , ns / ms: 998,975.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 910,067,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9434071
+Elapsed Time - ms: 943.00 ,ms: /s 999.57 , ns / ms: 1,000,431.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,407,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0333376
+Elapsed Time - ms: 1,033.00 ,ms: /s 999.67 , ns / ms: 1,000,326.82
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,033,337,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0367911
+Elapsed Time - ms: 1,036.00 ,ms: /s 999.24 , ns / ms: 1,000,763.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,036,791,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9496619
+Elapsed Time - ms: 949.00 ,ms: /s 999.30 , ns / ms: 1,000,697.47
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 949,661,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9915487
+Elapsed Time - ms: 992.00 ,ms: /s 1,000.46 , ns / ms: 999,545.06
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 991,548,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9554069
+Elapsed Time - ms: 955.00 ,ms: /s 999.57 , ns / ms: 1,000,426.07
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 955,406,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9958564
+Elapsed Time - ms: 996.00 ,ms: /s 1,000.14 , ns / ms: 999,855.82
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 995,856,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9435922
+Elapsed Time - ms: 944.00 ,ms: /s 1,000.43 , ns / ms: 999,568.01
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 943,592,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9480398
+Elapsed Time - ms: 949.00 ,ms: /s 1,001.01 , ns / ms: 998,988.20
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 948,039,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0053203
+Elapsed Time - ms: 1,005.00 ,ms: /s 999.68 , ns / ms: 1,000,318.71
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,005,320,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9914746
+Elapsed Time - ms: 992.00 ,ms: /s 1,000.53 , ns / ms: 999,470.36
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 991,474,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9149989
+Elapsed Time - ms: 915.00 ,ms: /s 1,000.00 , ns / ms: 999,998.80
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 914,998,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.1318015
+Elapsed Time - ms: 1,132.00 ,ms: /s 1,000.18 , ns / ms: 999,824.65
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,131,801,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9894890
+Elapsed Time - ms: 990.00 ,ms: /s 1,000.52 , ns / ms: 999,483.84
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 989,489,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9965983
+Elapsed Time - ms: 997.00 ,ms: /s 1,000.40 , ns / ms: 999,597.09
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 996,598,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9110367
+Elapsed Time - ms: 911.00 ,ms: /s 999.96 , ns / ms: 1,000,040.29
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 911,036,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8816878
+Elapsed Time - ms: 882.00 ,ms: /s 1,000.35 , ns / ms: 999,646.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 881,687,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9467477
+Elapsed Time - ms: 947.00 ,ms: /s 1,000.27 , ns / ms: 999,733.58
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 946,747,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9652668
+Elapsed Time - ms: 965.00 ,ms: /s 999.72 , ns / ms: 1,000,276.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 965,266,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9160810
+Elapsed Time - ms: 916.00 ,ms: /s 999.91 , ns / ms: 1,000,088.43
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 916,081,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9805254
+Elapsed Time - ms: 980.00 ,ms: /s 999.46 , ns / ms: 1,000,536.12
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 980,525,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9480731
+Elapsed Time - ms: 948.00 ,ms: /s 999.92 , ns / ms: 1,000,077.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 948,073,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9816367
+Elapsed Time - ms: 981.00 ,ms: /s 999.35 , ns / ms: 1,000,649.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 981,636,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9368968
+Elapsed Time - ms: 937.00 ,ms: /s 1,000.11 , ns / ms: 999,889.86
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 936,896,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9077790
+Elapsed Time - ms: 907.00 ,ms: /s 999.14 , ns / ms: 1,000,858.88
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 907,779,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9473618
+Elapsed Time - ms: 947.00 ,ms: /s 999.62 , ns / ms: 1,000,382.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 947,361,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9025490
+Elapsed Time - ms: 902.00 ,ms: /s 999.39 , ns / ms: 1,000,608.65
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 902,549,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9878571
+Elapsed Time - ms: 988.00 ,ms: /s 1,000.14 , ns / ms: 999,855.36
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 987,857,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9667494
+Elapsed Time - ms: 967.00 ,ms: /s 1,000.26 , ns / ms: 999,740.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 966,749,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9593439
+Elapsed Time - ms: 959.00 ,ms: /s 999.64 , ns / ms: 1,000,358.60
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 959,343,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9684933
+Elapsed Time - ms: 968.00 ,ms: /s 999.49 , ns / ms: 1,000,509.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 968,493,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9188473
+Elapsed Time - ms: 919.00 ,ms: /s 1,000.17 , ns / ms: 999,833.84
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 918,847,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9268859
+Elapsed Time - ms: 927.00 ,ms: /s 1,000.12 , ns / ms: 999,876.91
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 926,885,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9248055
+Elapsed Time - ms: 925.00 ,ms: /s 1,000.21 , ns / ms: 999,789.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 924,805,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9519115
+Elapsed Time - ms: 952.00 ,ms: /s 1,000.09 , ns / ms: 999,907.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 951,911,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9534211
+Elapsed Time - ms: 953.00 ,ms: /s 999.56 , ns / ms: 1,000,441.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 953,421,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9747780
+Elapsed Time - ms: 974.00 ,ms: /s 999.20 , ns / ms: 1,000,798.77
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 974,778,000.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8774981
+Elapsed Time - ms: 877.00 ,ms: /s 999.43 , ns / ms: 1,000,567.96
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 877,498,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9365426
+Elapsed Time - ms: 937.00 ,ms: /s 1,000.49 , ns / ms: 999,511.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 936,542,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8795105
+Elapsed Time - ms: 880.00 ,ms: /s 1,000.56 , ns / ms: 999,443.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 879,510,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8664912
+Elapsed Time - ms: 866.00 ,ms: /s 999.43 , ns / ms: 1,000,567.21
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 866,491,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8571918
+Elapsed Time - ms: 858.00 ,ms: /s 1,000.94 , ns / ms: 999,058.04
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 857,191,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9463351
+Elapsed Time - ms: 946.00 ,ms: /s 999.65 , ns / ms: 1,000,354.23
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 946,335,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8653505
+Elapsed Time - ms: 865.00 ,ms: /s 999.59 , ns / ms: 1,000,405.20
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 865,350,500.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0025836
+Elapsed Time - ms: 1,003.00 ,ms: /s 1,000.42 , ns / ms: 999,584.85
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,002,583,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9203412
+Elapsed Time - ms: 920.00 ,ms: /s 999.63 , ns / ms: 1,000,370.87
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 920,341,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9281733
+Elapsed Time - ms: 928.00 ,ms: /s 999.81 , ns / ms: 1,000,186.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 928,173,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9340426
+Elapsed Time - ms: 934.00 ,ms: /s 999.95 , ns / ms: 1,000,045.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 934,042,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9226561
+Elapsed Time - ms: 923.00 ,ms: /s 1,000.37 , ns / ms: 999,627.41
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 922,656,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0109611
+Elapsed Time - ms: 1,011.00 ,ms: /s 1,000.04 , ns / ms: 999,961.52
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,010,961,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9370754
+Elapsed Time - ms: 937.00 ,ms: /s 999.92 , ns / ms: 1,000,080.47
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 937,075,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9416568
+Elapsed Time - ms: 942.00 ,ms: /s 1,000.36 , ns / ms: 999,635.67
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 941,656,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9662841
+Elapsed Time - ms: 967.00 ,ms: /s 1,000.74 , ns / ms: 999,259.67
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 966,284,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.8737046
+Elapsed Time - ms: 873.00 ,ms: /s 999.19 , ns / ms: 1,000,807.10
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 873,704,600.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9938209
+Elapsed Time - ms: 994.00 ,ms: /s 1,000.18 , ns / ms: 999,819.82
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 993,820,900.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0405544
+Elapsed Time - ms: 1,040.00 ,ms: /s 999.47 , ns / ms: 1,000,533.08
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,040,554,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9383152
+Elapsed Time - ms: 938.00 ,ms: /s 999.66 , ns / ms: 1,000,336.03
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 938,315,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0747532
+Elapsed Time - ms: 1,075.00 ,ms: /s 1,000.23 , ns / ms: 999,770.42
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,074,753,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9650538
+Elapsed Time - ms: 965.00 ,ms: /s 999.94 , ns / ms: 1,000,055.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 965,053,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9729044
+Elapsed Time - ms: 973.00 ,ms: /s 1,000.10 , ns / ms: 999,901.75
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 972,904,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9393938
+Elapsed Time - ms: 940.00 ,ms: /s 1,000.65 , ns / ms: 999,355.11
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 939,393,800.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9546547
+Elapsed Time - ms: 955.00 ,ms: /s 1,000.36 , ns / ms: 999,638.43
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 954,654,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9949493
+Elapsed Time - ms: 995.00 ,ms: /s 1,000.05 , ns / ms: 999,949.05
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 994,949,300.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9346434
+Elapsed Time - ms: 935.00 ,ms: /s 1,000.38 , ns / ms: 999,618.61
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 934,643,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0885584
+Elapsed Time - ms: 1,088.00 ,ms: /s 999.49 , ns / ms: 1,000,513.24
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,088,558,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9662184
+Elapsed Time - ms: 967.00 ,ms: /s 1,000.81 , ns / ms: 999,191.73
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 966,218,400.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9528877
+Elapsed Time - ms: 952.00 ,ms: /s 999.07 , ns / ms: 1,000,932.46
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 952,887,700.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:01.0261862
+Elapsed Time - ms: 1,026.00 ,ms: /s 999.82 , ns / ms: 1,000,181.48
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 1,026,186,200.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9811481
+Elapsed Time - ms: 981.00 ,ms: /s 999.85 , ns / ms: 1,000,150.97
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 981,148,100.00
+--------------- END RUN ---------------
+
+--------------- BEGIN RUN ---------------
+Elapsed: 00:00:00.9294348
+Elapsed Time - ms: 930.00 ,ms: /s 1,000.61 , ns / ms: 999,392.26
+TotalCollections [Gen2] - collections: 0.00 ,collections: /s 0.00 , ns / collections: 929,434,800.00
+--------------- END RUN ---------------
+
+--------------- RESULTS: PerformanceTests.TaskPerfTests+PerformanceTests ---------------
+--------------- DATA ---------------
+Elapsed Time: Max: 1,132.00 ms, Average: 934.51 ms, Min: 837.00 ms, StdDev: 49.64 ms
+Elapsed Time: Max / s: 1,001.03 ms, Average / s: 1,000.01 ms, Min / s: 999.00 ms, StdDev / s: 0.43 ms
+
+TotalCollections [Gen2]: Max: 0.00 collections, Average: 0.00 collections, Min: 0.00 collections, StdDev: 0.00 collections
+TotalCollections [Gen2]: Max / s: 0.00 collections, Average / s: 0.00 collections, Min / s: 0.00 collections, StdDev / s: 0.00 collections
+
+--------------- ASSERTIONS ---------------
+[PASS] Expected Elapsed Time to must be less than or equal to 5,000.00 ms; actual value was 934.51 ms.
+[PASS] Expected TotalCollections [Gen2] to must be exactly 0.00 collections; actual value was 0.00 collections.
+
+------------ FINISHED PerformanceTests.TaskPerfTests+PerformanceTests ---------- 
+PM> 
